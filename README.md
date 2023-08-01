@@ -1,1 +1,1 @@
-# cv-dnn
+# cv-dnn-lib
